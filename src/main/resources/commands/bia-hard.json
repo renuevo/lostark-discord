@@ -1,0 +1,72 @@
+{
+  "title": "비아 하드 - 욕망군단장",
+  "url": "https://www.youtube.com/watch?v=-EpTitueYyU",
+  "image": "http://megaeconomy.co.kr/news/data/20210225/p1065573887450932_731_thum.jpg",
+  "addFields": [
+    {
+      "name": "최소레벨",
+      "value": "1460",
+      "inline": true
+    },
+    {
+      "name": "골드",
+      "value": "4500",
+      "inline": true
+    },
+    {
+      "name": "날개",
+      "value": "12개",
+      "inline": true
+    },
+    {
+      "name": "\u200B",
+      "value": "\u200B",
+      "inline": false
+    },
+    {
+      "name": "1관문 날개",
+      "value": "2개",
+      "inline": true
+    },
+    {
+      "name": "1관문 더보기 날개",
+      "value": "2개",
+      "inline": true
+    },
+    {
+      "name": "1관문 골드",
+      "value": "1000",
+      "inline": true
+    },
+    {
+      "name": "2관문 날개",
+      "value": "2개",
+      "inline": true
+    },
+    {
+      "name": "2관문 더보기 날개",
+      "value": "2개",
+      "inline": true
+    },
+    {
+      "name": "2관문 골드",
+      "value": "1000",
+      "inline": true
+    },
+    {
+      "name": "3관문 날개",
+      "value": "2개",
+      "inline": true
+    },
+    {
+      "name": "3관문 더보기 날개",
+      "value": "2개",
+      "inline": true
+    },
+    {
+      "name": "3관문 골드",
+      "value": "2500",
+      "inline": true
+    }
+  ]
+}

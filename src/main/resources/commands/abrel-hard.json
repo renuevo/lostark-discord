@@ -1,0 +1,82 @@
+{
+  "title": "아브렐 노말 - 몽환군단장",
+  "url": "https://www.youtube.com/watch?v=szid9T4WAaw",
+  "image": "https://w.namu.la/s/04a64f0e7e47db28f2c3469680ba26a90ee44fe7f3c0268d3c6b5f0fd0370bc0f18ce609e0de8031fc6591136ef7af5465ec65ef8723bff5271d63de4e209c5f914e1f1776e9b294d310d1148e58d6373f5fa575d32329e6da4b019269adc980bc88caf6d26dcf6492ce0da41a857519",
+  "addFields": [
+    {
+      "name": "최소레벨 1관문",
+      "value": "1540",
+      "inline": true
+    },
+    {
+      "name": "최소레벨 3관문",
+      "value": "1550",
+      "inline": true
+    },
+    {
+      "name": "최소레벨 5관문",
+      "value": "1560",
+      "inline": true
+    },
+    {
+      "name": "골드",
+      "value": "10500",
+      "inline": true
+    },
+    {
+      "name": "뿔",
+      "value": "없음",
+      "inline": true
+    },
+    {
+      "name": "\u200B",
+      "value": "\u200B",
+      "inline": false
+    },
+    {
+      "name": "1~2관문 뿔",
+      "value": "-",
+      "inline": true
+    },
+    {
+      "name": "1~2관문 더보기 뿔",
+      "value": "-",
+      "inline": true
+    },
+    {
+      "name": "1~2관문 골드",
+      "value": "5500",
+      "inline": true
+    },
+    {
+      "name": "3~4관문 뿔",
+      "value": "-",
+      "inline": true
+    },
+    {
+      "name": "3~4관문 더보기 뿔",
+      "value": "-",
+      "inline": true
+    },
+    {
+      "name": "3~4관문 골드",
+      "value": "2000",
+      "inline": true
+    },
+    {
+      "name": "5~6관문 뿔",
+      "value": "-",
+      "inline": true
+    },
+    {
+      "name": "5~6관문 더보기 뿔",
+      "value": "-",
+      "inline": true
+    },
+    {
+      "name": "5~6관문 골드",
+      "value": "3000",
+      "inline": true
+    }
+  ]
+}
