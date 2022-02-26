@@ -1,4 +1,4 @@
-package com.github.renuevo.common
+package com.github.renuevo.domain
 
 data class MessageModel(
         val title: String,

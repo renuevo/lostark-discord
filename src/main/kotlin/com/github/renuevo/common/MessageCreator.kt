@@ -2,6 +2,7 @@ package com.github.renuevo.common
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.kotlinModule
+import com.github.renuevo.domain.MessageModel
 import discord4j.core.spec.EmbedCreateSpec
 import discord4j.rest.util.Color
 import org.springframework.core.io.ClassPathResource
