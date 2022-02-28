@@ -18,7 +18,7 @@ class TraderCommand {
 
     fun getMessage(key: String) = EmbedCreateSpec.builder().apply {
         color(Color.RED)
-        title("${traderModelMap[key]!!.name} - 블로그 설명")
+        title("${traderModelMap[key]!!.name}")
         image(traderModelMap[key]!!.image)
         timestamp(Instant.now())
     }.build()
